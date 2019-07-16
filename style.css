@@ -104,7 +104,10 @@ cursor: pointer;
 
     body{
         background: url("wallpaper.png") no-repeat center fixed;
-        
+        height: 100%;
+        margin: 0;
+        padding: 0;
+
     }
 
 
