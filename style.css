@@ -92,4 +92,50 @@ cursor: pointer;
 }
 
 
+/* */
+/* */
+/* RESPONSIVE */
+/* RESPONSIVE */
+/* */
+/* */
 
+@media screen and (max-width: 800px) {
+
+
+    body{
+        background: url("wallpaper.png") no-repeat center fixed;
+        
+    }
+
+
+    .z1textAbsolute1{
+        font-size: 41px;
+        color: white;
+        position: absolute;
+        top: -4%;
+        left: 5%;
+    }
+
+    
+    
+.z1textAbsolute3{
+    position: absolute;
+    bottom: 1%;
+    left: 5%;
+    font-size: 40px;
+}
+
+.z1textAbsolute4{
+    position: absolute;
+    bottom: -4%;
+    right: 8%;
+    font-size: 33px;
+}
+
+    
+
+
+
+
+
+  } /* end of responsive */
