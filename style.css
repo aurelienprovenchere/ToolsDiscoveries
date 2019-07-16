@@ -43,22 +43,9 @@ body{
     flex-direction: column;
 }
 
-#inputForm{
-    margin-bottom: 10px;
-    
-    border: none;
-background: white;
-color: black !important;
-font-weight: 100;
-padding: 10px;
-text-transform: uppercase;
-border-radius: 6px;
-display: inline-block;
-
-}
-
 
 #inputButton{
+    text-decoration: none;
     background:    #3d85c6;
     background:    linear-gradient(#3d85c6, #9c97e6);
     border-radius: 6px;
@@ -69,6 +56,11 @@ display: inline-block;
     font-size: 26px;
     text-align:    center;
     text-shadow:   1px 1px #000000;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
 
 
@@ -94,7 +86,7 @@ transition: all 0.4s ease 0s;
 .z1textAbsolute4{
     position: absolute;
     bottom: -4%;
-    right: 6%;
+    right: 8%;
     font-size: 33px;
 }
 
