@@ -1,9 +1,10 @@
 ## ToolsDiscoveries
 A list of digital tools I found during hours and hours spending on screen
 
-https://aurelienprovenchere.github.io/ToolsDiscoveries/
+https://aurelienprovenchere.github.io/digitaltools/
 OR
 https://digitaltools.netlify.com/
+
 
 
 ------
