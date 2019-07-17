@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-seo-tag
+
+
+  <meta charset="utf-8" />
+    <meta name="description" content="Free website to download the best digital tools.">
+    <meta name="keywords" content="Download,Digital,Tools,Free">
+    <meta name="author" content="Aurélien Provenchère">
