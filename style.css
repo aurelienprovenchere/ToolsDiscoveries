@@ -112,10 +112,10 @@ cursor: pointer;
 
 
     .z1textAbsolute1{
-        font-size: 41px;
+        font-size: 36px;
         color: white;
         position: absolute;
-        top: -4%;
+        top: -1%;
         left: 5%;
     }
 
@@ -125,14 +125,14 @@ cursor: pointer;
     position: absolute;
     bottom: 1%;
     left: 5%;
-    font-size: 40px;
+    font-size: 34px;
 }
 
 .z1textAbsolute4{
     position: absolute;
     bottom: -4%;
     right: 8%;
-    font-size: 33px;
+    font-size: 28px;
 }
 
     
